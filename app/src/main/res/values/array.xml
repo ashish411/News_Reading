@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preference_labels">
+        <item>@string/prefrence_sports_label</item>
+        <item>@string/prefrence_business_label</item>
+        <item>@string/prefrence_entertainment_label</item>
+        <item>@string/prefrence_science_label</item>
+        <item>@string/preference_tech</item>
+    </string-array>
+    <string-array name="preference_values">
+        <item>@string/prefrence_sports_value</item>
+        <item>@string/prefrence_business_value</item>
+        <item>@string/prefrence_entertainment_value</item>
+        <item>@string/prefrence_science_value</item>
+        <item>@string/preference_tech</item>
+    </string-array>
+</resources>

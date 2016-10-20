@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">"News App "</string>
+    <string name="settings_title">Settings</string>
+    <string name="preference_label">Preference</string>
+    <string name="preference_key" translatable="false">preference</string>
+    <string name="preference_default">debates</string>
+    <string name="prefrence_sports_label">sports</string>
+    <string name="prefrence_sports_value">sport</string>
+    <string name="prefrence_business_label">business</string>
+    <string name="prefrence_business_value">business</string>
+    <string name="prefrence_entertainment_label">film</string>
+    <string name="prefrence_entertainment_value">film</string>
+    <string name="prefrence_science_label">science</string>
+    <string name="prefrence_science_value">science</string>
+    <string name="preference_tech">technology</string>
+
+</resources>
